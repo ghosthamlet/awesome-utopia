@@ -24,3 +24,6 @@
 
 1933, Lost Horizon, James Hilton
 
+1980, Entropy: A New World View, Jeremy Rifkin
+
+
