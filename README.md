@@ -6,6 +6,8 @@
 
 380 BC, Republic, Plato
 
+421, Peach Blossom Spring, Tao Yuanming
+
 1516, Utopia, Thomas More
 
 1602, The City of the Sun, Campanella
@@ -13,6 +15,8 @@
 1726, Gulliver's Travels, Jonathan Swift
 
 1848, The Communist Manifesto, Karl Marx and Friedrich Engels
+
+1854, Walden, Thoreau
 
 1877, The Dream Of a Ridiculous Man, Dostoevsky
 
