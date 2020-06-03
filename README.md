@@ -2,7 +2,10 @@
 
 570 BC - 470 BC, Tao Te Ching, Laozi 
 
-540 BC - 400 BC,  Analects of Confucius, Confucius
+540 BC - 400 BC, Book of Rites, Confucius   
+(When the Great Tao prevailed, the whole world was one community.)
+
+540 BC - 400 BC, Analects of Confucius, Confucius
 
 380 BC, Republic, Plato
 
