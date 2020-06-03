@@ -1,5 +1,6 @@
 # awesome-utopia
 
+570 BC - 470 BC, Tao Te Ching, Laozi 
 
 540 BC - 400 BC,  Analects of Confucius, Confucius
 
@@ -16,4 +17,6 @@
 1877, The Dream Of a Ridiculous Man, Dostoevsky
 
 1887, Looking Backward, Edward Bellamy
+
+1933, Lost Horizon, James Hilton
 
